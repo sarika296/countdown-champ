@@ -5,7 +5,7 @@ import Clock from './Clock';
 class App extends Component {
 
     state = {
-        deadline:"November 25, 2020",
+        deadline:"May 25, 2020",
         newDeadline:""
     }
 
