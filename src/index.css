@@ -12,3 +12,7 @@
     display: inline;
     margin: 10px;
 } 
+
+.Deadline-input, .button {
+    font-size: 25px;
+}
